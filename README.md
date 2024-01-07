@@ -16,7 +16,7 @@ To install the project dependencies, run the following command in your terminal:
 npm install --save-dev typescript jest ts-jest @types/jest ts-node
 ```
 
-## Use
+## Usage
 
 To run tests, run the following command in your terminal:
 ```bash
